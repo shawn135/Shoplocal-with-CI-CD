@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "image": "/images/headphones.jpg",
+    "description": "Noise-cancelling, local-brand over-ears."
+  },
+  {
+    "id": "2",
+    "name": "Vintage Coffee Mug",
+    "price": 12.99,
+    "image": "/images/mug.jpg",
+    "description": "From that cool shop down the street."
+  }
+]
